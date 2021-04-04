@@ -1,9 +1,7 @@
-# ReversedStackApi
-
-#Preview
+# Preview
 Web API for stack storage for actions : pop,push,peek,revert
 
-#Implementation
+# Implementation
 Using ASP.NET Core and Entity core ORM, web api was created while persistence data was kept on in memory database.
 
 # Reversed Stack Web API:
